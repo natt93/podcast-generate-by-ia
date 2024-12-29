@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/CAPA_PODCAST_AVADA_KEYTARA.PNG"
     width="300"
 />
 </p>
